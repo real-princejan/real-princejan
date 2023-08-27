@@ -9,7 +9,7 @@
 ###
 
 <h4 align="center">I strive for greatness in designing and developing</h4>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2924225/screenshots/9781095/media/4dda59dde01d03c28abbd5bcb70447d7.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/28/5f/5f/285f5f8809408d0d72645a78a5608969.gif">
 
 ###
 

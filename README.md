@@ -4,16 +4,17 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2924225/screenshots/9781095/media/4dda59dde01d03c28abbd5bcb70447d7.gif">
+<img align="right" alt="coding" width="300" src="https://www.1datagroup.com/wp-content/uploads/2021/03/programmers.gif">
 
 ###
+
 
 <h3 align="left">Connect with me:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/prince-jan-roi-cabading/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="35" alt="linkedin logo"  /></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="69" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="69" height="35" alt="gmail logo"  />
@@ -21,11 +22,11 @@
 
 ###
 
-<h3 align="right">Language and tools:</h3>
+<h3 align="left">Technologies:</h3>
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="35" alt="css3 logo"  />

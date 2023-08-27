@@ -1,19 +1,12 @@
-<div align="left">
-  <img height="200" src="https://i.imgur.com/f6CfJ71.mp4"  />
-</div>
-
-###
-
+![I am GitHub Readme Generator's creator](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 <h2 align="center">Hi I'm Prince Jan a Web Developer from 🇵🇭</h2>
-
-###
-
 <h4 align="center">I strive for greatness in designing and developing</h4>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/28/5f/5f/285f5f8809408d0d72645a78a5608969.gif">
+
+- 🌱 I’m currently learning **MERN Stack**
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2924225/screenshots/9781095/media/4dda59dde01d03c28abbd5bcb70447d7.gif">
 
 ###
-
-<br clear="both">
 
 <h3 align="left">Connect with me:</h3>
 

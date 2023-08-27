@@ -14,10 +14,8 @@
 ###
 
 <div align="left">
-<img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://www.linkedin.com/in/prince-jan-roi-cabading/)" width="69" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="69" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="69" height="35" alt="gmail logo"  />
+<a href="https://linkedin.com/in/prince jan roi cabading" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince jan roi cabading" width="69" height="35" /></a>
+<a href="https://www.instagram.com/kapeprince_/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="69" height="35" alt="instagram logo"  /></a>
 </div>
 
 ###

@@ -4,7 +4,7 @@
 
 - 🌱 I’m a **Python Developer**
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*IjwqslkWZDHTMK9Y.gif">
 
 ###
 

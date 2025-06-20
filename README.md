@@ -1,10 +1,10 @@
-![I am GitHub Readme Generator's creator](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
+![I am GitHub Readme Generator's creator](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR4MjV0bXhpOXMyenVud3RrcTlwOWw2NWtsY2tmMGprcmZsdzV4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG9fVWJdN41NeiHhzk/giphy.gif)
 <h2 align="center">Hi I'm Prince Jan a Software Engineer from 🇵🇭</h2>
 <h4 align="center">I strive for greatness in backend development</h4>
 
 - 🌱 I’m a **Python Developer**
 
-<img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR4MjV0bXhpOXMyenVud3RrcTlwOWw2NWtsY2tmMGprcmZsdzV4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG9fVWJdN41NeiHhzk/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 ###
 

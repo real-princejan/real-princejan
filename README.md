@@ -1,8 +1,8 @@
 ![I am GitHub Readme Generator's creator](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
-<h2 align="center">Hi I'm Prince Jan a Web Developer from 🇵🇭</h2>
-<h4 align="center">I strive for greatness in designing and developing</h4>
+<h2 align="center">Hi I'm Prince Jan a Software Engineer from 🇵🇭</h2>
+<h4 align="center">I strive for greatness in backend development</h4>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a **Python Developer**
 
 <img align="right" alt="coding" width="300" src="https://www.1datagroup.com/wp-content/uploads/2021/03/programmers.gif">
 

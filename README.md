@@ -1,8 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 <h2 align="center">Hi I'm Prince Jan a Software Engineer from 🇵🇭</h2>
-<h4 align="center">I strive for greatness in backend development</h4>
-
-- 🌱 I’m a **Python Developer**
+<h4 align="center">I strive for greatness in developing systems</h4>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
 
